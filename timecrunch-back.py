@@ -22,6 +22,7 @@ TODO List for Timecrunch Game Development
 - [ ] Timing system for game flow
 
 🧪 Game Mechanics
+- [ ] Add economy and expenses
 - [ ] Implement resource scarcity
 - [ ] Risk and legal management
 - [ ] Stress mechanics
